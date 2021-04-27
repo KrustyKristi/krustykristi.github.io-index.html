@@ -1,1 +1,1 @@
-# krustykristi.github.io-index.html
+# krustykristi.github.io/index.html
